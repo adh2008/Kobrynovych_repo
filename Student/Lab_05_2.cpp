@@ -35,7 +35,7 @@ int main()
              << setw(12) << setprecision(5) << atan(x) << " |"
              << setw(12) << setprecision(5) << s << " |"
              << setw(5) << n << " |"
-             << endl;
+             << endl;  
         x += dx;
     }
     cout << "-----------------------------------------------------------" << endl;

@@ -5,7 +5,7 @@
 #include <cmath>
 
 using namespace std;
-
+  
 double p(const double x);
 
 int main()
